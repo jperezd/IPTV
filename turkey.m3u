@@ -7,9 +7,5 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1, KANAL D act.0-
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-*#EXTINF:0, TV 8
+#EXTINF:0, TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1, A TV
-https://www.atvavrupa.tv/canli-yayin
-#EXTINF:-0,TRT 1
-https://tv-trt1.live.trt.com.tr/master_720.m3u8
