@@ -13,3 +13,5 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0, KRT
 https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1, HABER GLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
