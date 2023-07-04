@@ -17,3 +17,5 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 #EXTINF:0, TRT SPOR
 https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1, ASPOR
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
